@@ -37,6 +37,13 @@
             {
               "client_id": "545742335119-ov6r98v9q3lq4hsso1n724i26dbisd5o.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "545742335119-369585ijbp0s2o6dv1tlbsob6u7ihm28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.phoneAuthWithoutAppCheck"
+              }
             }
           ]
         }
